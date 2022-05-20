@@ -1,7 +1,5 @@
-# 
-
 # Wordle-clone
-I made a clone of the world's most popular puzzle gane right now! Wordle is something my wife and I play daily and I wanted to clone to game using my skills. 
+I made a clone of the world's most popular puzzle game right now! Wordle is something my wife and I play daily and I wanted to clone to game using my skills. 
 
 **Link to project:** https://wor-dle.netlify.app
 
